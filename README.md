@@ -1,0 +1,2 @@
+# SZAFAD-nlsbfx
+Batch created
